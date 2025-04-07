@@ -7,7 +7,7 @@ function MyButton({ title }: { title: string }) {
   export default function MyApp() {
     return (
       <div>
-        <h1>HACIENDO PRUEBAS</h1>
+        <h1>SEGUNDA PRUEBAS</h1>
         <MyButton title="Soy un botón" />
       </div>
     );
